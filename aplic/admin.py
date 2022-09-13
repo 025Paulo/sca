@@ -1,6 +1,6 @@
 from django.contrib import admin
 
-from . models import Curso, Professor, Aluno, Disciplina, Turma
+from .models import Curso, Professor, Aluno, Disciplina, Turma
 
 
 
